@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>La Página Personal de Fheng</title>
+</head>
+<body>
+
+<h1> La Página Personal de Fheng</h1>
+<p>Hola, soy Fheng Chiock Zevallos. Aquí puedes encontrar mis datos y enlaces de la mayoria de la informacion, puedes encontrar los colegios donde estudie, la universidad en la que estoy estudiando y algunos cursos.</p>
+<h2> Redes Sociales</h2>
+<p>Mi <a href="https://www.linkedin.com/in/fheng-chiock-b347a82a2/" target="_blank">Linkdin</a>.</p>
+<p>Mi <a href="https://www.facebook.com/fhengsebastian.chiockzevallos/" target="_blank">Facebook</a>.</p>
+<p>Mi <a href="https://github.com/FhengC" target="_blank">Github</a>.</p>
+<h2> Estudios</h2>
+<p>I.E Linux Torldvals 2009-2017.</p>
+<p>Visita a <a href="https://www.facebook.com/ColegioLinuxTorvalds/?locale=es_LA" target="_blank">Colegio Linux Torldvals</a>.</p>
+<p>Colegio Ejercito Arequipa 2018-2022.</p>
+<p>Visita a <a href="https://www.facebook.com/IEEjercitoArequipa" target="_blank">Colegio Ejercito Arequipa</a>.
+<p>Universidad Catolica San Pablo 2023.</p>
+<p>Visita a <a href="https://ucsp.edu.pe/" target="_blank">Universidad Catolica San Pablo</a>
+<p>Pagina de mi Facultad.</p>
+<p>Visita a mi <a href="https://ucsp.edu.pe/carreras/administracion-negocios/" target="_blank">Facultad</a>
+<h2> Cursos </h2>
+<p>Comportamiento del Consumidor.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/miguel-salomon-529453125/" target="_blank">mi docente</a>.</p>
+<p>Analisis de Datos.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">mi docente</a>.</p>
+<p>Introduccion a la Filosofia.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/fernando-alberto-lacunza-murillo-604580220/" target="_blank">mi docente</a>.</p>
+<p>Fundamentos de Marketing.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b/" target="_blank">mi docente</a>.</p>
+<p>Analisis Financiero.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/mar%C3%ADa-bel%C3%A9n-bocchio-linares-96846035/" target="_blank">mi docente</a>.</p>
+<p>Pensamiento critico.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/renatocu/" target="_blank">mi docente</a>.</p>
+<p>Apreciaciacion Musical.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/%C3%B3scar-roberto-ball%C3%B3n-diaz-520897193/" target="_blank">mi docente</a>.</p>
+<p>Economia General.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/karlolam/" target="_blank">mi docente</a>.</p>
+<p>Apreciaciacion Artistica.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/mar%C3%ADa-eugenia-cano-aguirre-42b94660/" target="_blank">mi docente</a>.</p>
+<p>Contabilidad.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/h%C3%A9ctor-manuel-castro-salinas-b1575831/">mi docente</a>.
+<p>Calculo en una Variable.</p>
+<p>Conoce a <a href="https://www.linkedin.com/in/maribel-marianela-8453a61a7/">mi docente</a>.
+</p>
+
+</p>
+</body>
+</html>
